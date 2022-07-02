@@ -1,19 +1,8 @@
-{
-    "name": "HeitorPWA",
-    "short_name": "HeitorPWA",
-    "icons": [
-      {
-        "src": "https://heitorgr.herokuapp.com/android-chrome-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      },
-      {
-        "src": "https://heitorgr.herokuapp.com/android-chrome-512x512.png",
-        "sizes": "512x512",
-        "type": "image/png"
-      }
-    ],
-    "theme_color": "#000000",
-    "background_color": "#292145",
-    "display": "fullscreen"
+{"name":"HeitorPWA",
+  "short_name":"Hpwa",
+  "icons":[
+    {"src":"/android-chrome-192x192.png","sizes":"192x192","type":"image/png"},
+    {"src":"/android-chrome-512x512.png","sizes":"512x512","type":"image/png"}],
+    
+    "theme_color":"#ffffff","background_color":"#ffffff","display":"standalone"
   }
